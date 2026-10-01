@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "name": "Nelson_DC_2026-2027 - Imagery_Centres",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Project": "PGRM3349",
+                "Proj_Name": "Nelson 2026-27 Rural",
+                "Survey_Typ": "Imagery",
+                "OrthoGSD_m": "0.20",
+                "Area": 691.733
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.393451303500342,
+                    -41.239148580999689
+                ]
+            }
+        }
+    ]
+}
