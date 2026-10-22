@@ -18,8 +18,8 @@
                 "SN_No": null,
                 "Company_Name": null,
                 "Description": null,
-                "Area": 0,
-                "Percentage_Coverage": 0.0
+                "Area": 691.73,
+                "Percentage_Coverage": 100.0
             },
             "geometry": {
                 "type": "MultiPolygon",
